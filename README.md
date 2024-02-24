@@ -79,6 +79,8 @@ Foram coletadas imagens dermatoscópicas de diferentes populações, adquiridas 
 - Precisão: 68%
 - Recall: 66%
 
+  Os resultados foram relativamente baixos devido a falta de recursos computacionais para treinar por mais epocas.
+
 ## Casos de Uso
 
 Uma pessoa identifica uma manha na pele, com caracteristicas intrigantes, formato, cor, sensibilidade. 
@@ -106,10 +108,10 @@ Essa pessoa pode tirar uma foto da mancha e verificar se o modelo consegue class
 
 1. O dataset está disponível no Kaggle.
 2. Utilize o API do Kaggle para realizar o download do dataset. Para mais informações acesse [aqui](https://www.kaggle.com/docs/api).
-3. Coloque o dataset na pasta `./skin-cancer`
+3. Coloque o dataset na pasta `./content/skin-cancer-mnist-ham10000`
 4. Execute o arquivo .ipynb para abrir o pipeline do modelo.
 ```
-skin-cancer.ipynb
+skin_cancer.ipynb
 ```
    obs.: Não esqueça de alterar o caminho correto no seu computador.
 
@@ -131,11 +133,11 @@ mlflow ui
 
 ## Tarefas em aberto
 
-:memo: Registrar o modelo no Mlflow
+:memo: Melhorar o desempenho do modelo
 
-:memo: Testar uma imagem aleatória qu não faça parte do conjuntos experimentados aqui e verificar a classificação do modelo.
+:memo: Testar uma imagem aleatória que não faça parte dos conjuntos experimentados aqui e verificar a classificação do modelo.
 
-:memo: Criar uma aplicação mobile
+:memo: criar uma pagina para disponibilizar o teste de imagens online
 
 ## Desenvolvedora :octocat:
 
