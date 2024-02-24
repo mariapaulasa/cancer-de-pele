@@ -109,7 +109,7 @@ Essa pessoa pode tirar uma foto da mancha e verificar se o modelo consegue class
 3. Coloque o dataset na pasta `./skin-cancer`
 4. Execute o arquivo .ipynb para abrir o pipeline do modelo.
 ```
-MPSA_Skin_Cancer.ipynb
+skin-cancer.ipynb
 ```
    obs.: Não esqueça de alterar o caminho correto no seu computador.
 
