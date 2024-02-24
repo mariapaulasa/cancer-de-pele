@@ -1,6 +1,6 @@
 <h1>Classificação de Câncer de Pele</h1> 
 
-![image](https://github.com/mpsacin/projeto_final/assets/111194717/befc6198-7ff6-4761-ad29-3a03c5506004)
+![image](https://github.com/mariapaulasa/cancer-de-pele/assets/132618060/6bd3ef3d-c20c-4f73-b6e1-4c0f79850d05)
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=python&message=3.8.18&color=blue&style=for-the-badge&logo=python"/>
