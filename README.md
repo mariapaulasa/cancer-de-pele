@@ -18,8 +18,6 @@
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
 :small_blue_diamond: [Como rodar o modelo](#como-rodar-o-modelo)
 
 Apresentação do projeto: [Vídeo](https://www.loom.com/share/39fddc1a3df842bab43c80dc0e68027b?sid=f84cbf84-1f60-4f45-8ca9-169b1ddfdd53)
@@ -101,7 +99,7 @@ Essa pessoa pode tirar uma foto da mancha e verificar se o modelo consegue class
 - OpenCV 4.9.0.80
 - Pillow 10.0.1
 - MlFlow
-- GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+- GPU: T4
 
 
 ## Como rodar o modelo
@@ -119,17 +117,6 @@ Para visualizar os resultados no MLFlow interface, vá para a pasta `./mlruns` n
 ```
 mlflow ui
 ```
-
-## Linguagens, dependencias e libs utilizadas :books:
-
-- Python 3.8.18
-- Pytorch 2.1.1
-- Torchvision 0.16.1
-- Optuna 3.5.0
-- OpenCV 4.9.0.80
-- Pillow 10.0.1
-- MlFlow
-- GPU: NVIDIA GeForce RTX 4060 Laptop GPU
 
 ## Tarefas em aberto
 
