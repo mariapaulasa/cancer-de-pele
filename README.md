@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Como rodar o modelo](#como-rodar-o-modelo)
 
-Apresentação do projeto: [Vídeo](https://)
+Apresentação do projeto: [Vídeo](https://drive.google.com/file/d/1PgRT4_pzi_EnEwK1MM5p3NEJYHv13bm6/view?usp=drive_link)
 
 
 ## Descrição do projeto 
